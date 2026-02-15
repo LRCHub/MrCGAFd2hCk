@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "かわいいだけじゃない宣言！",
+  "base_artist": "9bic",
+  "createdAt": "2026-02-15T14:16:52.818346Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かわいいだけじゃない宣言!",
+      "artist": "9bic",
+      "has_synced": false,
+      "path": "select/pl_01_かわいいだけじゃない宣言!_9bic.txt"
+    }
+  ]
+}
